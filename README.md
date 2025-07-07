@@ -31,7 +31,7 @@ It’s lightweight, terminal-based, and crazy easy to use.
 
 Okay, here’s the secret sauce:
 
-1. **Install [NetworkSniffer Extension](https://chromewebstore.google.com/detail/network-sniffer/fakcbdabfjjicnmkhljhanahlhdkjlgf])** (Chrome)
+1. **Install [NetworkSniffer Extension](https://chromewebstore.google.com/detail/network-sniffer/fakcbdabfjjicnmkhljhanahlhdkjlgf)** (Chrome)
 2. Go to the website and start playing the video.
 3. Open the extension and look for a link that ends in `.m3u8`.
 4. Copy that `.m3u8` link.
