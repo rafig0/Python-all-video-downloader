@@ -22,7 +22,7 @@ It’s lightweight, terminal-based, and crazy easy to use.
 ✅ Save videos with their original title  
 ✅ Super clean CLI — no fluff  
 ✅ Works on Windows, Mac, and Linux  
-✅ Download from *almost* any website using **NetworkSniffer + M3U8 link**
+✅ Download from *almost* any website using **NetworkSniffer + M3U8 link**  
 ✅ Insanely fast download speeds
 
 ---
