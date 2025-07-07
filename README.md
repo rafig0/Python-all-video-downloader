@@ -36,7 +36,10 @@ Okay, here’s the secret sauce:
 4. Copy that `.m3u8` link.
 5. Paste it into this downloader when prompted.
 
-🎯 Boom. You just sniped a video off the web like a boss.
+⚠️ **WARNING: Please be mindful**:  
+This tool is meant for **educational and personal use only**.  
+Always respect content creators, platforms’ terms of service, and copyright laws.  
+If it’s not your content or you don’t have permission — don’t download it. ✌️
 
 ---
 
