@@ -1,4 +1,4 @@
-# 🧠 Python All Video Downloader
+# 🧠 PyVideoGrabber (Python All Video Downloader)
 
 > Download videos from **any website** like an elite internet ninja. You bring the link, it brings the fire.  
 > Powered by [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) + your browser’s secret weapon: **NetworkSniffer**.
